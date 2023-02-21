@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here]([https://your-solution-url.com](https://www.frontendmentor.io/solutions/responsive-teastimonials-section-using-css-grid-4lJkpGrz9a))
-- Live Site URL: [Add live site URL here]( https://joshuaaj003.github.io/testimonials-grid-section/)
+- Live Site URL: [Add live site URL here]( https://JAjorgbor.github.io/testimonials-grid-section/)
 
 ## My process
 
@@ -107,8 +107,8 @@ I look forward to using css grid and flex box for future projects for they cut d
 
 ## Author
 
-- Website - [Joshua Aj](https://github.com/joshuaAj003)
-- Frontend Mentor - [@joshuaAj003](https://www.frontendmentor.io/profile/yourusername)
+- Website - [Joshua Aj](https://github.com/JAjorgbor)
+- Frontend Mentor - [@JAjorgbor](https://www.frontendmentor.io/profile/yourusername)
 - Twitter - [@JAjorgbor](https://www.twitter.com/JAjorgbor)
 
 
